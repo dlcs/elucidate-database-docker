@@ -6,7 +6,6 @@ Development PostgreSQL database for Elucidate
 ```
 git clone https://github.com/dlcs/elucidate-database-docker
 cd elucidate-database-docker
-git submodule init
 sudo docker build -t elucidate-database .
 ```
 
